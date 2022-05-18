@@ -12,7 +12,4 @@ The excel files scraped from the websites are available in the Data Tab.
 
 ### Visualization
 
-<img src="https://user-images.githubusercontent.com/105253832/169169982-d751282f-04cd-46ff-83ec-bfcd4abff748.png" width="600" height="600">
-
-### Process
-
+<img src="https://user-images.githubusercontent.com/105253832/169171620-a9d95c2a-43ab-458b-b036-1408fe6ed969.png" width="600" height="600">
