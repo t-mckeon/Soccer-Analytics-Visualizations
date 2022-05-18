@@ -10,7 +10,8 @@ Data comes from [fivethirtyeight.com's soccer prediction](https://projects.fivet
 ### Visualizations
 
 <img align="center" src="https://user-images.githubusercontent.com/105253832/169167881-84b2ac25-6bcd-431a-828d-3ec2cbab73dc.svg" width="700" height="700">
-
+<p float="left">
 <img align="center" src="https://user-images.githubusercontent.com/105253832/169168319-f88df9dc-9d53-4b5b-b599-254bb400e43d.jpg" width="300" height="300">
-<img align="center" src="ttps://user-images.githubusercontent.com/105253832/169168382-ac595d41-060e-4c62-a471-4326eb40fad5.jpg" width="300" height="300">
+<img align="center" src="https://user-images.githubusercontent.com/105253832/169168462-f9e1cea9-042e-4b86-b725-edb380541959.jpg" width="300" height="300">
 <img align="center" src="https://user-images.githubusercontent.com/105253832/169168410-8555fa6f-43e2-4ee9-92ae-40879fa1a3f9.jpg" width="300" height="300">
+</p>
