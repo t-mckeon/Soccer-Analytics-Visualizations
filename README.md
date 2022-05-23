@@ -8,3 +8,7 @@ Collection of Soccer Data Visualizations I've created for the Box to Box Podcast
 ### Point Tally Flow Chart
 
 <img src="https://user-images.githubusercontent.com/105253832/169171620-a9d95c2a-43ab-458b-b036-1408fe6ed969.png" width="600" height="600">
+
+### Top Earners Bar Race Chart!
+
+<img src="https://user-images.githubusercontent.com/105253832/169877262-86f7aad2-6e2f-463e-9004-c1cbe7a469b1.gif" width="600" height="600">
