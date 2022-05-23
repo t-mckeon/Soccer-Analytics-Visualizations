@@ -12,4 +12,6 @@ The jupyter notebook for this visualization includes a scraper specific for coll
 
 ### Visualization
 
+The code for the visualization was adapted from this article - https://towardsdatascience.com/creating-bar-chart-race-animation-with-python-cdb01144074e.
+
 <img src="https://user-images.githubusercontent.com/105253832/169878337-6847c6ab-1218-48cd-a046-109a6d089ec8.gif" width="800" height="400">
